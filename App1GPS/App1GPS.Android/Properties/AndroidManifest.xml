@@ -8,6 +8,6 @@
 	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="App1GPS.Android">
-    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCinmf7JNbjtLWh6W3Kexnk5JOF2V58-B4"></meta-data>
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="tu api key de google va aqui (y)"></meta-data>
   </application>
 </manifest>
